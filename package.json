@@ -1,0 +1,15 @@
+{
+  "name": "chatRoom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies":{
+  	"express":"*",
+  	"pug":"*",
+  	"socket.io":"*",
+  	"underscore":"*",
+  	"body-parser":"*"
+  	},
+  "author": "Prithvi",
+  "license": "ISC"
+}
